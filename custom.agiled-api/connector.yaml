@@ -1,0 +1,6 @@
+id: "custom.agiled-api"
+title: "Agiled Api"
+description: "Use Agiled through its registered REST API: users, CRM contacts and accounts, projects, tasks, invoices, estimates, expenses, contracts, docs, employees, products, tickets, payments, currencies and departments, with full read and write access."
+include_in_prompt: true
+require_auth: true
+aliases: ["Agiled"]
